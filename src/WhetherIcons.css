@@ -1,0 +1,17 @@
+.icon-box{
+    background-image: url(/public/image/city.png);
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    width: 300px;
+    height: 250px;
+    margin-top: 40px;
+}
+.icon{
+    width: 100px;
+    height: 100px;
+}
+.city-box{
+    margin-left: -30px;
+    margin-top: 200px;
+}

@@ -1,0 +1,8 @@
+.daily-box{
+    display:flex;
+    flex-direction: column;
+    width: 100px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
